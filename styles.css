@@ -15,7 +15,7 @@ button{
     background-color: royalblue;
 }
 body{
-    background-color:#c7c7c7;
+    background-color:#ff0000;
 }
 .header {
     font-size: 0;
@@ -53,6 +53,7 @@ body{
         
     }
     
+    
     li {
         margin-left: 25px;
         margin-right: 25px;
@@ -76,3 +77,4 @@ body{
         border-color: black;
         border-radius: 5px;
       }
+      
